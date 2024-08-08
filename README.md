@@ -9,3 +9,5 @@
 #### [Firefox](https://github.com/TIC-ZOOMtech/Softwares/blob/main/Firefox.exe)
 #### [OfficeSetup](https://github.com/TIC-ZOOMtech/Softwares/blob/main/OfficeSetup.exe)
 #### [CPUZ](https://github.com/TIC-ZOOMtech/Softwares/blob/main/cpu-z_2.10-en.zip)
+#### [Bizagi](https://github.com/TIC-ZOOMtech/Softwares/blob/main/bizagi)
+
