@@ -1,0 +1,5 @@
+1_SFC 			- verifica a integridade dos arquivos do sistema protegidos pelo Windows e substitui os arquivos danificados ou corrompidos por versões corretas
+2_Dism_Scanhealth 	- é usado para verificar a integridade dos arquivos de imagem do sistema e identificar quaisquer problemas
+3_Dism_Restorehealth	- é usado para reparar arquivos corrompidos ou danificados na imagem do sistema operacional Windows. 
+4_chkdsk 		- é usado para verificar a integridade do sistema de arquivos e corrigir erros no disco rígido	
+5_Temp			- Faz limpeza de arquivos temporarios
