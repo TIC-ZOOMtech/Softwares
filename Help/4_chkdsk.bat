@@ -1,2 +1,0 @@
-chkdsk /r /f
-pause
