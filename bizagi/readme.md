@@ -1,6 +1,6 @@
 # Bizagi Free
 
-#### Usar o diretorio abaixo para instalação e substituir o arquivo de configuração [BizagiModeler.exe.config](https://github.com/TIC-ZOOMtech/Softwares/blob/main/bizagi/BizagiModeler.exe.config)
+#### Usar o diretorio abaixo para instalação, o instalador está compactado e dividido, substituir o arquivo de configuração [BizagiModeler.exe.config](https://github.com/TIC-ZOOMtech/Softwares/blob/main/bizagi/BizagiModeler.exe.config)
 
 ```
 C:\bizagi
